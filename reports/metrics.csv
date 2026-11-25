@@ -1,0 +1,5 @@
+Model,CV ROC-AUC,Accuracy,Precision,Recall,F1,ROC-AUC
+AdaBoost,0.877,0.918,0.871,0.9643,0.9153,0.9751
+Logistic Regression,0.9065,0.8689,0.8125,0.9286,0.8667,0.9578
+Voting Classifier,0.9038,0.8852,0.8387,0.9286,0.8814,0.9567
+Random Forest,0.8969,0.9016,0.8438,0.9643,0.9,0.9426

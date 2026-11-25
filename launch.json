@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    { "name": "Train models", "type": "debugpy", "request": "launch", "module": "src.train", "console": "integratedTerminal" },
+    { "name": "Streamlit app", "type": "debugpy", "request": "launch", "module": "streamlit", "args": ["run", "app.py"], "console": "integratedTerminal" }
+  ]
+}
